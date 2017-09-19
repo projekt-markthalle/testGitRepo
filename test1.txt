@@ -1,5 +1,7 @@
 content 1
 
+test
+test
 content 2 rebase
 
 content updated locally
