@@ -11,3 +11,5 @@ new feature in branch development
 updated the new feature in branch development
 
 fine tune the css
+
+another new feature in paralel
