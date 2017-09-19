@@ -6,6 +6,8 @@ content 2 again updated
 
 content added from github directly
 
+another new feature in paralel
+
 new feature in branch development
 
 updated the new feature in branch development
