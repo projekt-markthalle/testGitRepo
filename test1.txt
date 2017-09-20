@@ -1,14 +1,1 @@
-content 1
-
-test
-test
-content 2 rebase
-
-content updated locally
-
-
-updated the file with test data
-
-issue fix - 123
-
-content added in github directly
+is it cleaned already - test
